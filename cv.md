@@ -4,8 +4,6 @@ title: About me
 subtitle: Why you'd want to get to know me
 ---
 
-# Woravit Ariyakunatorn
-
 ## General Information
 - **Full Name:** Woravit Ariyakunatorn
 - **Languages:** English, Thai
