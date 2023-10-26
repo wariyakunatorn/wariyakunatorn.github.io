@@ -4,15 +4,66 @@ title: About me
 subtitle: Why you'd want to get to know me
 ---
 
-Hello, I'm Woravit Ariyakunatorn. Here's a bit about me:
+# Woravit Ariyakunatorn
 
-- With over a decade in IT, I'm currently immersed in the fascinating world of DevOps.
-- I thrive in the Agile methodology, fostering collaboration between development and operations teams.
-- My expertise covers a range of DevOps aspects, from automation to continuous integration, delivery, and infrastructure as code.
-- Beyond the tech scene, I enjoy fishing, outdoor activities, and staying abreast of the latest trends and best practices
+## General Information
+- **Full Name:** Woravit Ariyakunatorn
+- **Languages:** English, Thai
 
-What else do you need?
+## Education
+- **Bachelor's Degree in Computer Science**
+  - *Mahidol University, Thailand*
+  - *Year: 2011*
 
-### My story
+## Experience
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Principal DevOps Engineer
+- **Allianz Technology Thailand**
+- *Year: 2021 - Present*
+  - Led a DevOps engineering team, providing technical guidance and leadership for successful product delivery.
+  - Collaborated with 50+ internal stakeholders, improving product delivery processes.
+  - Proficient in cloud computing, automation, CI/CD, microservices, security, and more.
+  - Managed recruitment, onboarding, and training of DevOps engineers.
+  - Fostered a culture of innovation, continuous improvement, and collaboration.
+
+### Infrastructure Engineer
+- **SES Satellites**
+- *Year: 2016 - 2020*
+  - Led design, implementation, and maintenance of global system solutions.
+  - Managed infrastructure for 50+ locations worldwide.
+  - Led and managed multiple projects, ensuring on-time and within-budget execution.
+  - Accountable for design, monitoring, and management of signal distribution components.
+  - Experienced in live video streaming, transcoding, and playback.
+
+### Senior Infrastructure Engineer
+- **Allianz Technology Thailand**
+- *Year: 2014 - 2015*
+  - Maintained system security and supported day-to-day server operations.
+  - Proactively monitored system performance and provided guidance to less experienced staff.
+  - Managed highly available infrastructure, including Windows Servers, VMware, and more.
+  - Facilitated cross-team collaboration.
+
+### Systems Engineer
+- **Toyota Technical Center Australia**
+- *Year: 2013*
+  - Installed and maintained a wide range of IT equipment.
+  - Expertise in installing and configuring computer hardware, software, and systems.
+  - Extensive experience in software installation and troubleshooting for CAD engineering.
+
+### Systems Engineer
+- **Toyota Tsusho Network Integration Thailand**
+- *Year: 2011 - 2012*
+  - Oversaw and coordinated projects from inception to completion.
+  - Managed project timelines and addressed issues during implementation.
+  - Troubleshooted and resolved complex technical problems.
+  - Expertise in system engineering for successful project implementations.
+
+## Certification
+- *Year:* 
+  - *2023*
+    - CKA - Certified Kubernetes Administrator
+  - *2022*
+    - AWS Certified Solutions Architect – Associate
+
+## Other Interests
+- **Hobbies:** Fishing and other Outdoor activities.
