@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to get to know me
+title: CV
+subtitle: My overview of education and profession history
 ---
 
 ## General Information
