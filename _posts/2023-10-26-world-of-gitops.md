@@ -1,6 +1,6 @@
 ---
 layout: post
-title: World of GitOps
+title: GitOps - A DevOps Revolution
 subtitle: In a nutshell
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
@@ -8,10 +8,6 @@ subtitle: In a nutshell
 tags: [devops, test]
 author: Woravit Ariyakunatorn
 ---
-
-# Embracing Simplicity and Efficiency with GitOps: A DevOps Revolution
-
-## Introduction
 
 In the dynamic world of DevOps, where agility and efficiency are paramount, GitOps has emerged as a revolutionary approach to managing and automating workflows. GitOps brings together the power of Git, the widely adopted version control system, and operational best practices to streamline development, deployment, and maintenance processes. In this blog post, we'll delve into the essence of GitOps, its principles, and the transformative impact it has on the DevOps landscape.
 
