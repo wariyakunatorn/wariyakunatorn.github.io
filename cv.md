@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-subtitle: My overview of education and profession history
+subtitle: Overview of my education and profession history
 ---
 
 ## General Information
